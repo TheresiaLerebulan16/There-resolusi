@@ -4,3 +4,4 @@ Resolusi di Tahun 2021 adalah
 - Selesaikan Front-end dan back-end
 - ipk selalu 3,8 atau 3,9 atau 4. aminn
 - Konsisten belajar 8 jam sehari
+- Belajar spesifikasi komputer 
